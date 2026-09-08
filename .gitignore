@@ -1,0 +1,35 @@
+# Maven
+ target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+application-local.yml
+application-local.yaml
+
+# OS
+.DS_Store
+Thumbs.db
