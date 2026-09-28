@@ -1,0 +1,10 @@
+com\codesense\domain\Requirement.class
+com\codesense\domain\RequirementPriority.class
+com\codesense\controller\HealthController.class
+com\codesense\domain\Review.class
+com\codesense\domain\FindingSeverity.class
+com\codesense\domain\ReviewResult.class
+com\codesense\domain\ReviewStatus.class
+com\codesense\CodeSenseApplication.class
+com\codesense\domain\Project.class
+com\codesense\domain\User.class
